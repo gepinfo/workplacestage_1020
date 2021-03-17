@@ -1,0 +1,7 @@
+{
+  "name": "workplacestage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
